@@ -1,14 +1,17 @@
-## Packages to install
+# Botkeeper-Coding-Challenge
+@author - Rachit Shrivastava
+@email - rshriva@ncsu.edu
+
+## Setup
+Clone the repo : `git clone https://github.com/rachit491/botkeeper-coding-challenge.git`
+
+`cd botkeeper-coding-challenge`
 
 `npm install`
 
 To run the server, clone the project folder and,
 
-`npm run start` 
-
-or 
-
-`npm run dev` 
+`npm run start` or `npm run dev` 
 
 ## ProductDetails Endpoints 
 
