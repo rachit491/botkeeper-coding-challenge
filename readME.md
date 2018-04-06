@@ -1,5 +1,6 @@
 # Botkeeper-Coding-Challenge
 @author - Rachit Shrivastava
+
 @email - rshriva@ncsu.edu
 
 ## Setup
@@ -12,6 +13,9 @@ Clone the repo : `git clone https://github.com/rachit491/botkeeper-coding-challe
 To run the server, clone the project folder and,
 
 `npm run start` or `npm run dev` 
+
+Goto `localhost:3001/productDetails` to check the endpoints
+
 
 ## ProductDetails Endpoints 
 
