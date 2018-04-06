@@ -32,7 +32,7 @@ function processInventoryData(resp) {
 	  product.map(function(y) {
 	    if(x.name == y.name) {
 	    	found = false;
-	    	productDetails.push({...x, ...y});
+	    	productDetails.push(Object.assign({}, x, y));
 	    }
 	  });
 	  if(found) {
